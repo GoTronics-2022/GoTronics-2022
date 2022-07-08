@@ -20,3 +20,7 @@ Arduino Pin      *	SWITCH
 12	        *         SW5
 A0	        *         SW6
 *********************************
+IO EXTENSIONS
+********************************
+CN3 IN BOARD-TX RX GND
+CN2 IN BOARD -A1 ,A2 ,A3 ,A4 ,A5 ,A6 ,A7
